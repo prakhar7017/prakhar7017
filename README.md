@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Hey, I’m Prakhar Maheshwari<br><br>🌱 I’m interested in learning new technologies.<br><br>👯I'm currently learning Blockchain Development and exploring DSA.<br><br>🤝 I’m looking to collaborate on open source projects.<br><br>💬 Ask me about anything here<br><br>📫 How to reach me prakharmaheshwari96@gmail.com
 
+<p align="left"> <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt="prakhar7017" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_.nalayak_13?igshid=NjIwNzIyMDk2Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakhar-maheshwari-13p/) 
