@@ -2,9 +2,9 @@
 🔭 Hey, I’m Prakhar Maheshwari<br><br>🌱 I’m interested in learning new technologies.<br><br>👯I'm currently learning Blockchain Development and exploring DSA.<br><br>🤝 I’m looking to collaborate on open source projects.<br><br>💬 Ask me about anything here<br><br>📫 How to reach me prakharmaheshwari96@gmail.com
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=simran1002&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran1002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+<img src="https://github-readme-stats.vercel.app/api?username=prakhar7017&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar7017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar7017&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
 </div>
 
